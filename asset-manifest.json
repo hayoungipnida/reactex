@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactex/static/css/main.56bb6193.css",
+    "main.js": "/reactex/static/js/main.ba6cf490.js",
+    "static/js/453.6bb9f666.chunk.js": "/reactex/static/js/453.6bb9f666.chunk.js",
+    "index.html": "/reactex/index.html",
+    "main.56bb6193.css.map": "/reactex/static/css/main.56bb6193.css.map",
+    "main.ba6cf490.js.map": "/reactex/static/js/main.ba6cf490.js.map",
+    "453.6bb9f666.chunk.js.map": "/reactex/static/js/453.6bb9f666.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56bb6193.css",
+    "static/js/main.ba6cf490.js"
+  ]
+}
